@@ -1,0 +1,37 @@
+# Neo4j runs in Neo4j Desktop (external app) — no DB files live in this repo.
+
+# OS / 编辑器杂项
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Project (Python) ---
+# Secrets: never commit the API key
+.env
+*.key
+
+# Python runtime
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Note: dataset/ and results/ ARE tracked on purpose (reproducibility:
+# frozen corpus, gold set, metrics). Only ignore heavy/transient caches:
+dataset/cache/
+results/*.tmp
+# Labeling tool's scratch artifacts (dev copies + atomic-write temp files)
+dataset/labels/*.copy.csv
+dataset/labels/*.tmp
+
+# Slide decks (generated locally for progress reports — not part of the repo)
+*.pptx
+.slidebuild/
+
+# Manuscript PDFs exported from Overleaf — the paper source lives there, not here
+docs/*.pdf
+progress_report.*
+
+# Reference papers downloaded locally (copyrighted PDFs — not part of the repo)
+docs/papers/

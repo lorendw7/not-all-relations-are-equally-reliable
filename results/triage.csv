@@ -1,0 +1,5 @@
+policy,description,routed,effort,captured,capture_rate,residual_precision
+P0,everything,360,1.0,125,1.0,1.0
+P1,low-precision relations,180,0.5,78,0.624,0.8333333333333334
+P2,judge rejects only,36,0.1,28,0.224,0.7078313253012049
+P3,P1 union P2,191,0.5305555555555556,83,0.664,0.8483754512635379

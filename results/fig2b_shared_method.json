@@ -1,0 +1,388 @@
+[
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 99,
+        "labels": [
+          "Paper"
+        ],
+        "properties": {
+          "id": "2606.18543v1"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:99"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 1152921504606847075,
+            "start": 99,
+            "end": 1456,
+            "type": "PROPOSES",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:1152921504606847075",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:99",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "end": {
+            "identity": 99,
+            "labels": [
+              "Paper"
+            ],
+            "properties": {
+              "id": "2606.18543v1"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:99"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 1455,
+        "labels": [
+          "Paper"
+        ],
+        "properties": {
+          "id": "2606.17459v1"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 1152921504606848431,
+            "start": 1455,
+            "end": 1456,
+            "type": "PROPOSES",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:1152921504606848431",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "end": {
+            "identity": 1455,
+            "labels": [
+              "Paper"
+            ],
+            "properties": {
+              "id": "2606.17459v1"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 1457,
+        "labels": [
+          "Task"
+        ],
+        "properties": {
+          "name": "CEO-level strategic resource reallocation"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1457"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 1152921504606848431,
+            "start": 1455,
+            "end": 1456,
+            "type": "PROPOSES",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:1152921504606848431",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "end": {
+            "identity": 1455,
+            "labels": [
+              "Paper"
+            ],
+            "properties": {
+              "id": "2606.17459v1"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455"
+          }
+        },
+        {
+          "start": {
+            "identity": 1455,
+            "labels": [
+              "Paper"
+            ],
+            "properties": {
+              "id": "2606.17459v1"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455"
+          },
+          "relationship": {
+            "identity": 6917531226664338865,
+            "start": 1455,
+            "end": 1457,
+            "type": "ADDRESSES_TASK",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:6917531226664338865",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1455",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1457"
+          },
+          "end": {
+            "identity": 1457,
+            "labels": [
+              "Task"
+            ],
+            "properties": {
+              "name": "CEO-level strategic resource reallocation"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1457"
+          }
+        }
+      ],
+      "length": 2.0
+    }
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 100,
+        "labels": [
+          "Task"
+        ],
+        "properties": {
+          "name": "operating a startup for 500 days"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:100"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 6917531226664337508,
+            "start": 1456,
+            "end": 100,
+            "type": "ADDRESSES_TASK",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:6917531226664337508",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:100"
+          },
+          "end": {
+            "identity": 100,
+            "labels": [
+              "Task"
+            ],
+            "properties": {
+              "name": "operating a startup for 500 days"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:100"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 101,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "Claude Opus 4.8"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:101"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 6917533425687593061,
+            "start": 1456,
+            "end": 101,
+            "type": "EVALUATED_ON",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:6917533425687593061",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:101"
+          },
+          "end": {
+            "identity": 101,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "Claude Opus 4.8"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:101"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "path": {
+      "start": {
+        "identity": 1456,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "CEO-Bench"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+      },
+      "end": {
+        "identity": 102,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "GPT-5.5"
+        },
+        "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:102"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1456,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "CEO-Bench"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456"
+          },
+          "relationship": {
+            "identity": 6917533425687593062,
+            "start": 1456,
+            "end": 102,
+            "type": "EVALUATED_ON",
+            "properties": {},
+            "elementId": "5:fc0cb068-f901-4f01-8ae8-25173a7b3556:6917533425687593062",
+            "startNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:1456",
+            "endNodeElementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:102"
+          },
+          "end": {
+            "identity": 102,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "GPT-5.5"
+            },
+            "elementId": "4:fc0cb068-f901-4f01-8ae8-25173a7b3556:102"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

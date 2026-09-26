@@ -1,0 +1,17 @@
+{
+    "query": "(cat:cs.AI OR cat:cs.CL OR cat:cs.LG) AND submittedDate:[202606150000 TO 202606212359]",
+    "date_window_utc": [
+        "202606150000",
+        "202606212359"
+    ],
+    "sort": "submittedDate/ascending",
+    "primary_filter": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+    ],
+    "sample_seed": 42,
+    "n_in_window": 1208,
+    "n_sampled": 200,
+    "fetched_on": "2026-06-23"
+}
